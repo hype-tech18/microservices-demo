@@ -1,0 +1,6 @@
+Sudo: required
+Services:
+-docker
+cript:
+-docker build +t
+Chico t
